@@ -1,0 +1,60 @@
+
+
+body{
+	background:url('../img/btsstage3.jpg')center/cover no-repeat fixed;
+	color:#fff;
+	font-family:'Arial', sans-serif;
+	font-size:20px;
+}
+
+#container{
+	
+	width:60%;
+	
+	margin:20px auto;
+	overflow:auto;
+	padding:35px;
+}
+
+header{
+	text-align:center;
+	border-bottom:#fff dashed 1px;
+}
+
+header h1{
+	margin:0;
+	padding:0;
+}
+
+header p{
+	padding:0;
+	margin-top:5px;
+	color:#fff;
+}
+
+section{
+	min-height:400px;
+}
+
+footer{
+	text-align:center;
+}
+
+input[type='submit']{
+	background:#f722c1;
+	border:0;
+	color:#fff;
+	padding:10px 15px;
+	cursor:pointer;
+}
+
+#results h3{
+	background:#f722c1;
+	padding:10px;
+	margin:10px 0;
+}
+
+#results span{
+	color:#000;
+	font-weight:bold;
+}
